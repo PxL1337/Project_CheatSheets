@@ -1,0 +1,23 @@
+# Le fichier .gitignore indique à Git quels fichiers ou répertoires ignorer
+
+# Ignore les fichiers de configuration de l'éditeur de texte
+*.iml
+.idea/
+*.iws
+*.ipr
+*.json
+
+# Ignore les fichiers de système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Ignore les fichiers liés à Node.js
+node_modules/
+npm-debug.log
+
+# Ignore les fichiers liés à Bower
+bower_components/
+
+# Ignore les fichiers de build
+/dist
+/build
