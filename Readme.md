@@ -59,6 +59,15 @@ Les contributions sont les bienvenues ! Si vous souhaitez ajouter une nouvelle c
 
 ## Licence
 
-Ce projet est sous licence [MIT](LICENSE.md).
+Ce projet est sous licence Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-N'hésitez pas à personnaliser ce Readme.md en ajoutant des informations spécifiques à chaque module de cheatsheet. Assurez-vous également de fournir des instructions détaillées sur la façon d'utiliser les cheatsheets et de les intégrer dans des projets web. Bonne chance avec votre projet !
+Vous êtes libre de :
+
+- Partager : copier et redistribuer le matériel sous n'importe quel format ou média.
+- Adapter : remixer, transformer et créer à partir du matériel pour toute utilisation, y compris commerciale.
+
+Nous vous demandons simplement de :
+
+- Créditer l'auteur original en mentionnant [@PxL7331](https://github.com/PxL7331) et en incluant un lien vers le projet original.
+
+Pour plus d'informations sur la licence Creative Commons Attribution 4.0 International (CC BY 4.0), vous pouvez consulter le fichier [LICENSE](LICENSE.md).
