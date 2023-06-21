@@ -1,4 +1,4 @@
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+# Licence Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 Ce projet est sous licence Creative Commons Attribution 4.0 International (CC BY 4.0).
 
@@ -11,4 +11,4 @@ Nous vous demandons simplement de :
 
 - Créditer l'auteur original en mentionnant [@PxL7331](https://github.com/PxL7331) et en incluant un lien vers le projet original.
 
-Pour plus d'informations sur la licence Creative Commons Attribution 4.0 International (CC BY 4.0), consultez le [site officiel](https://creativecommons.org/licenses/by/4.0/legalcode).
+Pour plus d'informations sur la licence Creative Commons Attribution 4.0 International (CC BY 4.0), consultez le [texte complet de la licence](https://creativecommons.org/licenses/by/4.0/legalcode).
