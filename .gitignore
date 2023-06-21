@@ -21,3 +21,6 @@ bower_components/
 # Ignore les fichiers de build
 /dist
 /build
+
+# Ignore certains dossiers
+Plans/
